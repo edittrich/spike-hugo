@@ -1,4 +1,10 @@
-baseURL = 'https://edittrich.github.io/spike-hugo/'
+#baseURL = 'https://edittrich.github.io/spike-hugo/'
+baseURL = 'https://hugo.edittrich-vps.de/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[deployment]
+[[deployment.targets]]
+name = "gcp"
+URL = "gs://edittrich-huew-default-hugo"

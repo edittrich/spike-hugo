@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://edittrich.github.io/spike-hugo/</loc>
+    <loc>https://hugo.edittrich-vps.de/posts/my-first-post/</loc>
     <lastmod>2025-01-12T18:03:35+01:00</lastmod>
   </url><url>
-    <loc>https://edittrich.github.io/spike-hugo/posts/</loc>
+    <loc>https://hugo.edittrich-vps.de/</loc>
     <lastmod>2025-01-12T18:03:35+01:00</lastmod>
   </url><url>
-    <loc>https://edittrich.github.io/spike-hugo/categories/</loc>
+    <loc>https://hugo.edittrich-vps.de/posts/</loc>
+    <lastmod>2025-01-12T18:03:35+01:00</lastmod>
   </url><url>
-    <loc>https://edittrich.github.io/spike-hugo/tags/</loc>
+    <loc>https://hugo.edittrich-vps.de/categories/</loc>
+  </url><url>
+    <loc>https://hugo.edittrich-vps.de/tags/</loc>
   </url>
 </urlset>
