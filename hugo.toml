@@ -1,4 +1,6 @@
+# GitHub
 #baseURL = 'https://edittrich.github.io/spike-hugo/'
+# GCP
 baseURL = 'https://hugo.edittrich-vps.de/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
