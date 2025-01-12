@@ -8,3 +8,5 @@ theme = 'ananke'
 [[deployment.targets]]
 name = "gcp"
 URL = "gs://edittrich-huew-default-hugo"
+[[deployment.matchers]]
+cacheControl = "no-store, no-cache, max-age=0"
